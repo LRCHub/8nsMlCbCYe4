@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Always Everywhere",
+  "base_artist": "Charli xcx",
+  "createdAt": "2026-03-06T01:48:09.877470Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Always Everywhere",
+      "artist": "K's Choice",
+      "has_synced": true,
+      "path": "select/01_Always_Everywhere_K's_Choice.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Always Everywhere",
+      "artist": "Black Market Karma",
+      "has_synced": true,
+      "path": "select/02_Always_Everywhere_Black_Market_Karma.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Always Everywhere",
+      "artist": "K's Choice",
+      "has_synced": true,
+      "path": "select/03_Always_Everywhere_K's_Choice.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Always Everywhere",
+      "artist": "K's Choice",
+      "has_synced": false,
+      "path": "select/04_Always_Everywhere_K's_Choice.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Always Everywhere",
+      "artist": "K`s Choice",
+      "has_synced": true,
+      "path": "select/05_Always_Everywhere_K`s_Choice.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Always Everywhere",
+      "artist": "Charli Xcx",
+      "has_synced": true,
+      "path": "select/06_Always_Everywhere_Charli_Xcx.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "09 Always Everywhere",
+      "artist": "K's Choice",
+      "has_synced": true,
+      "path": "select/07_09_Always_Everywhere_K's_Choice.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Always Everywhere",
+      "artist": "Charli xcx",
+      "has_synced": false,
+      "path": "select/pl_01_Always_Everywhere_Charli_xcx.txt"
+    }
+  ]
+}
