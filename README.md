@@ -1,0 +1,48 @@
+# Charli xcx – Always Everywhere
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:18.96] On the hillside, shadows chase the dawn
+[00:23.36] Your name is carved where the wild winds have gone
+[00:27.65] Black flowers burn, violet fades to grey
+[00:32.11] Still I hear your laughter tearing through the rain
+[00:57.61] 
+[00:36.47] I can't escape the storm you gave me
+[00:40.62] Constant lightning in my veins
+[00:45.29] Every echo calls your name
+[00:48.63] Calls your name, calls your name
+[00:50.82] Flash right back at me, oh
+[01:03.82] 
+[00:55.07] Always everywhere
+[00:59.39] Always everywhere
+[01:03.10] Yeah, you're everywhere
+[01:14.60] 
+[01:12.41] Always everywhere
+[01:16.72] Always everywhere
+[01:20.62] Yeah, you're everywhere
+[01:32.12] 
+[01:28.70] On the water, your face on top of mine
+[01:33.09] A fever dream of mirrored features, hungry eyes
+[01:37.46] I feel like home, still you pull away
+[01:41.96] You disappear to somewhere dark, so far away
+[02:03.96] 
+[01:46.24] I can't escape the storm you gave me
+[01:50.61] Constant lightning in my veins
+[01:55.07] Every echo calls your name
+[01:58.41] Calls your name, calls your name
+[02:00.62] Flash right back at me, oh
+[02:13.62] 
+[02:04.84] Always everywhere
+[02:09.14] Always everywhere
+[02:12.91] Yeah, you're everywhere
+[02:24.41] 
+[02:22.25] Always everywhere
+[02:26.58] Always everywhere
+[02:30.34] Yeah, you're everywhere
+[02:41.84] 
+[02:39.16] Ooh
+[02:43.55] Ooh
+[02:47.99] Ooh
+[02:52.32] Ooh
+```
